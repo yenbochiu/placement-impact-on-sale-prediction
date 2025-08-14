@@ -75,6 +75,10 @@ Python (pandas, NumPy, seaborn/matplotlib, scikit‑learn, statsmodels), Jupyter
 
 ---
 
-## License
-This project is released under the MIT License (see `LICENSE`).
+## Author
+
+Name: Yen-Bo Chiu    
+Contact: yenbochiu@gmail.com    
+Edu: MSc Business Analytics, University of Edinburgh/ BA Economics, National Taiwan University  
+Loc: I'm currently based in Amsterdam, Netherlands/ Taipei, Taiwan
 
