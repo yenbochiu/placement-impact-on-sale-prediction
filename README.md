@@ -17,11 +17,13 @@ This repository contains:
 
 ---
 
-## Data (schema)
-We use three datasets and join on **PRODUCT_ID**, **WEEK_NO**, **STORE_ID**:
-1) `transaction_data.csv` — household transactions (day, quantity, sales, discounts, etc.).  
-2) `product.csv` — product hierarchy: department, commodity, sub‑commodity, brand.  
-3) `causal_data.csv` — placement: **DISPLAY** and **MAILER** coding.
+## Data
+The data is not uploaded due to size limits and policy.  
+To reproduce the project:
+
+1. Download the dataset from [Google  Drive](https://drive.google.com/drive/folders/15wl5O8_2gijpo3a9zlbJLsGzsTY_cXAU?usp=sharing)
+2. Place all CSV files in the `data/` folder
+3. After reading the `dunnhumby_Datasets_Guide` in the `data/` folder, you’re good to go!
 
 **Placement coding (examples):**
 - **DISPLAY**: `1=Store Front`, `2=Store Rear`, `3=Front End Cap`, `4=Mid‑Aisle End Cap`, `5=Rear End Cap`, `7=In‑Aisle`, `9=Secondary Location`, `A=In‑Shelf`.
